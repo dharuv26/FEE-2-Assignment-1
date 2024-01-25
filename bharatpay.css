@@ -24,7 +24,9 @@ a {
 .b1 {
     font-size: large;
 }
-
+button{
+    padding: 7px 22px;
+}
 
 .pg1 {
     display: flex;
@@ -44,7 +46,7 @@ a {
     border-radius: 7%;
 }
 .b2{
-    font-size: x-large;
+    font-size: large;
     color: blue;
     border-radius: 10px;
     border-color: blue;
